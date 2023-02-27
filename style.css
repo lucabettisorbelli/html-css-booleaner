@@ -64,3 +64,10 @@ th {
 .row {
     background-color: rgb(72, 218, 218);
 }
+
+footer {
+    margin-left: 70px;
+}
+ .img-footer {
+    display: block;
+ }
