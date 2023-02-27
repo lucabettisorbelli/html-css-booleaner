@@ -1,15 +1,26 @@
+* {
+    margin: 0;
+}
 header {
-    background-image: url(./img/pattern.jpg);
+    background-image: url(./img/pattern.png);
     height: 200px;
-    background-color: darkblue;
+    background-color: rgb(69, 189, 230);
 }
 
-.img {
-    background-size: ;
+.logo {
+    height: 100px;
+    margin: auto;
+    padding: 70px;
+    
 }
 
 h1 {
     font-size: 70px;
+}
+
+main {
+    margin: 70px;
+    width: 1500px;
 }
 
 h3 {
@@ -18,5 +29,14 @@ h3 {
 }
 
 span {
-    color: aqua;
+    color: rgb(34, 197, 197);
+}
+
+#data {
+    font-size: 15px;
+}
+
+.tim {
+    height: 500px;
+    padding-top: 10px;
 }
