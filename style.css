@@ -40,3 +40,11 @@ span {
     height: 500px;
     padding-top: 10px;
 }
+
+section {
+    padding-top: 20px;
+    font-size: 25px;
+}
+.lista {
+    padding-top: 30px;
+}
