@@ -2,6 +2,7 @@
     margin: 0;
     padding-top: 5px;
     font-size: 20px;
+    
 }
 header {
     background-image: url(./img/pattern.png);
@@ -67,7 +68,26 @@ th {
 
 footer {
     margin-left: 70px;
+    color: gray;
 }
- .img-footer {
-    display: block;
- }
+
+.image1{
+    background-image: url(./img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.image2 {
+    background-image: url(./img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+}
+
+.text-img {
+    font-size: 30px;
+    color: white;
+}
