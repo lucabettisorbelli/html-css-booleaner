@@ -1,0 +1,22 @@
+header {
+    background-image: url(./img/pattern.jpg);
+    height: 200px;
+    background-color: darkblue;
+}
+
+.img {
+    background-size: ;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h3 {
+    font-style: italic;
+    color: grey;
+}
+
+span {
+    color: aqua;
+}
